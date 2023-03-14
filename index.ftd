@@ -7,17 +7,17 @@
 
 
 -- ftd.type heading-hero-mobile:
-line-height.px: 60
-size.px: 52
+line-height.em: 1.3
+size.px: 59
 letter-spacing.px: 0
-weight: 700
+weight: 800
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.type heading-hero-desktop:
-line-height.px: 60
-size.px: 52
+line-height.em: 1.3
+size.px: 30
 letter-spacing.px: 0
-weight: 700
+weight: 800
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.responsive-type heading-hero:
@@ -32,14 +32,14 @@ mobile: $heading-hero-mobile
 line-height.px: 48
 size.px: 40
 letter-spacing.px: 0
-weight: 700
+weight: 500
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.type heading-large-desktop:
-line-height.px: 48
-size.px: 40
+line-height.px: 60
+size.px: 50
 letter-spacing.px: 0
-weight: 700
+weight: 500
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.responsive-type heading-large:
@@ -51,18 +51,18 @@ mobile: $heading-large-mobile
 
 
 -- ftd.type heading-medium-mobile:
-line-height.px: 44
-size.px: 32
+line-height.px: 45
+size.px: 30
 letter-spacing.px: 0
-weight: 600
+weight: 500
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.type heading-medium-desktop:
-line-height.px: 44
-size.px: 32
+line-height.px: 60
+size.px: 40
 letter-spacing.px: 0
 font-family: $raleway-assets.fonts.Raleway
-weight: 600
+weight: 500
 
 -- ftd.responsive-type heading-medium:
 desktop: $heading-medium-desktop
@@ -71,16 +71,16 @@ mobile: $heading-medium-mobile
 
 
 -- ftd.type heading-small-mobile:
-line-height.px: 36
-size.px: 24
+line-height.px: 45
+size.px: 30
 letter-spacing.px: 0
 weight: 500
 font-family: $raleway-assets.fonts.Raleway
 
 
 -- ftd.type heading-small-desktop:
-line-height.px: 36
-size.px: 24
+line-height.px: 45
+size.px: 30
 letter-spacing.px: 0
 weight: 500
 font-family: $raleway-assets.fonts.Raleway
@@ -91,18 +91,18 @@ mobile: $heading-small-mobile
 
 
 -- ftd.type heading-tiny-mobile:
-line-height.px: 26
-size.px: 18
+line-height.px: 30
+size.px: 20
 letter-spacing.px: 0
-weight: 500
+weight: 900
 font-family: $raleway-assets.fonts.Raleway
 
 
 -- ftd.type heading-tiny-desktop:
-line-height.px: 26
-size.px: 18
+line-height.px: 30
+size.px: 20
 letter-spacing.px: 0
-weight: 500
+weight: 900
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.responsive-type heading-tiny:
@@ -112,19 +112,19 @@ mobile: $heading-tiny-mobile
 
 
 -- ftd.type copy-large-mobile:
-line-height.px: 28
-size.px: 20
+line-height.px: 26
+size.px: 16
 letter-spacing.px: 0
 weight: 400
 font-family: $raleway-assets.fonts.Raleway
 
 
 -- ftd.type copy-large-desktop:
-line-height.px: 28
-size.px: 20
+line-height.px: 26
+size.px: 16
 letter-spacing.px: 0
-font-family: $raleway-assets.fonts.Raleway
 weight: 400
+font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.responsive-type copy-large:
 desktop: $copy-large-desktop
@@ -317,18 +317,18 @@ mobile: $source-code-mobile
 
 
 -- ftd.type button-large-mobile:
-line-height.px: 24
-size.px: 18
+line-height.px: 26
+size.px: 16
 letter-spacing.px: 0
-weight: 700
+weight: 400
 font-family: $raleway-assets.fonts.Raleway
 
 
 -- ftd.type button-large-desktop:
-line-height.px: 24
+line-height.px: 30
 size.px: 18
 letter-spacing.px: 0
-weight: 700
+weight: 400
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.responsive-type button-large:
@@ -337,7 +337,7 @@ mobile: $button-large-mobile
 
 
 -- ftd.type button-medium-mobile:
-line-height.px: 21
+line-height.px: 26
 size.px: 16
 letter-spacing.px: 0
 weight: 400
@@ -345,10 +345,10 @@ font-family: $raleway-assets.fonts.Raleway
 
 
 -- ftd.type button-medium-desktop:
-line-height.px: 21
+line-height.px: 26
 size.px: 16
 letter-spacing.px: 0
-weight: 700
+weight: 400
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.responsive-type button-medium:
@@ -368,18 +368,18 @@ mobile: $button-medium-mobile
 
 
 -- ftd.type button-small-mobile:
-line-height.px: 19
-size.px: 14
+line-height.px: 21
+size.px: 13
 letter-spacing.px: 0
-weight: 400
+weight: 500
 font-family: $raleway-assets.fonts.Raleway
 
 
 -- ftd.type button-small-desktop:
-line-height.px: 19
-size.px: 14
+line-height.px: 21
+size.px: 13
 letter-spacing.px: 0
-weight: 700
+weight: 500
 font-family: $raleway-assets.fonts.Raleway
 
 -- ftd.responsive-type button-small:
