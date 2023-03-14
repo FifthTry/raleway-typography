@@ -112,7 +112,7 @@ mobile: $heading-tiny-mobile
 
 
 -- ftd.type copy-large-mobile:
-line-height.px: 26.4
+line-height.px: 26
 size.px: 16
 letter-spacing.px: 0
 weight: 400
@@ -120,7 +120,7 @@ font-family: $raleway-assets.fonts.Raleway
 
 
 -- ftd.type copy-large-desktop:
-line-height.px: 26.4
+line-height.px: 26
 size.px: 16
 letter-spacing.px: 0
 weight: 400
