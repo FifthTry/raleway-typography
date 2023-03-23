@@ -359,7 +359,7 @@ line-height.px: 21
 size.px: 13
 letter-spacing.px: 0
 weight: 500
-font-family: $raleway-assets.fonts.Raleway
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'
 
 
 -- ftd.type button-small-desktop:
@@ -367,7 +367,7 @@ line-height.px: 21
 size.px: 13
 letter-spacing.px: 0
 weight: 500
-font-family: $raleway-assets.fonts.Raleway
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'
 
 -- ftd.responsive-type button-small:
 desktop: $button-small-desktop
