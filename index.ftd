@@ -137,7 +137,7 @@ mobile: $copy-large-mobile
 
 
 -- ftd.type copy-regular-mobile:
-line-height.px: 24
+line-height.px: 26
 size.px: 16
 letter-spacing.px: 0
 weight: 400
@@ -145,7 +145,7 @@ font-family: $raleway-assets.fonts.Raleway
 
 
 -- ftd.type copy-regular-desktop:
-line-height.px: 24
+line-height.px: 28
 size.px: 16
 letter-spacing.px: 0
 font-family: $raleway-assets.fonts.Raleway
