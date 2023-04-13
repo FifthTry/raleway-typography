@@ -426,8 +426,10 @@ types: $types
 
 
 
--- display-type:
-types: $types
+
+
+
+
 
 
 
@@ -446,7 +448,6 @@ role: $display-type.types.heading-large
 color: $inherited.colors.text-strong
 padding-vertical.px: 24
 
-
 -- heading-box: \$inherited.types.heading-hero
 line-height: 104
 size: 80
@@ -464,7 +465,6 @@ line-height: 57
 size: 38
 weight: 700
 headingtitle: $display-type.types.heading-medium
-
 
 -- heading-box: \$inherited.types.heading-small
 line-height: 31
@@ -553,6 +553,12 @@ headingtitle: $display-type.types.link
 -- end: ftd.column
 
 -- end: display-type
+
+
+
+
+
+
 
 
 
